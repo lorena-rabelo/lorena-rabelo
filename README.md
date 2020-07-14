@@ -1,6 +1,6 @@
 # Hey 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@oi_lorenarabelo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/oi_lorenarabelo)      [![Linkedin Badge](https://img.shields.io/badge/-olalorenarabelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/olalorenarabelo/)      [![Gmail Badge](https://img.shields.io/badge/-ola.lorenarabelo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ola.lorenarabelo@gmail.com)](mailto:ola.lorenarabelo@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/oi_lorenarabelo)      [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/olalorenarabelo/)      [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ola.lorenarabelo@gmail.com)](mailto:ola.lorenarabelo@gmail.com)
 
 ### Desenvolvedora Front-end | UI Designer 
 
