@@ -1,12 +1,12 @@
 # Hey 👋
 
-### Desenvolvedora Front-end | UI Designer   
+### Engenheira de Software no Zé Delivery 🍻 
 
 #### ⚡ JavaScript | React
 
-Meu nome é Lorena, sou Desenvolvedora Front-end  e UI Designer. Participei do bootcamp de Front-end da Reprograma e curso Análise e Desenvolvimento de Sistemas.   
+Desenvolvedora Front-end e UI Designer, estudante de Análise e Desenvolvimento de Sistemas. 
 
-Como projeto final da Reprograma, desenvolvi o [Calma, senhora](https://calma-senhora.netlify.app/), para que alunas do curso consigam um material de apoio direto, através de vídeos e artigos, e também pessoas que não tenham passado no processo seletivo (ou não poderiam fazê-lo) tenham acesso ao conteúdo, priorizando textos e vídeos em português. 
+Participei do bootcamp de Front-end da Reprograma, e agora atuo como monitora e professora do curso. Como projeto final da Reprograma, desenvolvi o [Calma, senhora](https://calma-senhora.netlify.app/), para que alunas do curso consigam um material de apoio direto, através de vídeos e artigos, e também pessoas que não tenham passado no processo seletivo (ou não poderiam fazê-lo) tenham acesso ao conteúdo, priorizando textos e vídeos em português. 
 
 📫 Onde me encontrar:   
    
